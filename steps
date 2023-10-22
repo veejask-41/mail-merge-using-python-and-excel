@@ -1,0 +1,5 @@
+email
+    pip install python-dotenv
+
+excel
+    install openpyxl

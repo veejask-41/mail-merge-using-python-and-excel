@@ -27,7 +27,7 @@ wb_path = "data.xlsx"
 
 wb = load_workbook(wb_path)
 
-sheet = wb["Sheet1"]
+sheet = wb["Sheet2"]
 
 
 server = smtplib.SMTP('smtp.gmail.com', 587)
